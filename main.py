@@ -12,4 +12,4 @@ async def on_ready():
     await client.change_presence(status=discord.Status.online, activity=discord.Game("TESTING"))
 
 keep_alive.keep_alive()
-client.run(os.getenv("TOKEN"), bot=False)
+client.run(os.getenv("ODI4MDA4Mzg3NzQzOTczMzg3.YVRfCA.ml0ur8kP9u9pIhdzumeMsQHo2X0"), bot=False)
